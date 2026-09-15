@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000021",
+  "_key": "!actors!dnpc000000000021",
+  "name": "Farmer",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/farmer.webp",
+  "system": {
+    "health": { "value": 6, "max": 6 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A sun-browned farmer in his forties, calloused hands resting easily on his pitchfork. Honest and tired, he worries more about the harvest than about the strange lights he saw at the treeline last night.",
+    "abilities": {
+      "str": { "value": 2 },
+      "agi": { "value": -1 },
+      "int": { "value": -1 },
+      "per": { "value": 0 },
+      "cha": { "value": 1 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 6 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Farmer",
+    "actorLink": false
+  },
+  "sort": 600000,
+  "folder": "dnfo000000000001"
+}

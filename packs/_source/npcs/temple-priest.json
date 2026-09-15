@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000022",
+  "_key": "!actors!dnpc000000000022",
+  "name": "Temple Priest",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/temple-priest.webp",
+  "system": {
+    "health": { "value": 5, "max": 5 },
+    "mana": { "value": 6, "max": 6 },
+    "biography": "A serene priest in flowing cream-and-gold vestments, hands clasped in quiet benediction. He offers calm counsel and healing to all who come to the temple, asking only for honesty in return.",
+    "abilities": {
+      "str": { "value": -1 },
+      "agi": { "value": -1 },
+      "int": { "value": 1 },
+      "per": { "value": 1 },
+      "cha": { "value": 2 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 5 },
+      "wil": { "value": 8 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Temple Priest",
+    "actorLink": false
+  },
+  "sort": 700000,
+  "folder": "dnfo000000000001"
+}

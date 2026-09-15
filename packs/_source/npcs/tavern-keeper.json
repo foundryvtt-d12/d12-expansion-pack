@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000013",
+  "_key": "!actors!dnpc000000000013",
+  "name": "Tavern Keeper",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/tavern-keeper.webp",
+  "system": {
+    "health": { "value": 6, "max": 6 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A stout, weathered tavern keeper in his fifties who has heard every rumor and settled every dispute this side of the bar. Beneath the warm smile is a man who knows how to handle a rowdy crowd.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": -1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 2 }
+    },
+    "defenses": {
+      "arm": { "value": 5 },
+      "end": { "value": 6 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Tavern Keeper",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000001"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000015",
+  "_key": "!actors!dnpc000000000015",
+  "name": "Guard Captain",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/guard-captain.webp",
+  "system": {
+    "health": { "value": 10, "max": 10 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A stern officer of the city watch, scarred from real battles and impossible to bribe. She commands the gatehouse with quiet, unwavering authority.",
+    "abilities": {
+      "str": { "value": 2 },
+      "agi": { "value": 2 },
+      "int": { "value": 0 },
+      "per": { "value": 2 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 10 },
+      "end": { "value": 8 },
+      "wil": { "value": 7 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Guard Captain",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000003"
+}

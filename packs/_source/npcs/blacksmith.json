@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000018",
+  "_key": "!actors!dnpc000000000018",
+  "name": "Blacksmith",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/blacksmith.webp",
+  "system": {
+    "health": { "value": 9, "max": 9 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A broad-shouldered dwarf with a braided beard singed from decades at the forge. Gruff and short on words, but honest work and fair prices have kept the town's tools and blades in good order for years.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": -1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 6 },
+      "end": { "value": 8 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Blacksmith",
+    "actorLink": false
+  },
+  "sort": 400000,
+  "folder": "dnfo000000000001"
+}

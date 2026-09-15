@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000017",
+  "_key": "!actors!dnpc000000000017",
+  "name": "Traveling Merchant",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/traveling-merchant.webp",
+  "system": {
+    "health": { "value": 4, "max": 4 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A portly, smiling half-elf laden with gold chains and rings, always mid-haggle over some exotic good. Charming and quick-tongued, he never quite gives you his best price first.",
+    "abilities": {
+      "str": { "value": -1 },
+      "agi": { "value": 0 },
+      "int": { "value": 1 },
+      "per": { "value": 1 },
+      "cha": { "value": 3 }
+    },
+    "defenses": {
+      "arm": { "value": 3 },
+      "end": { "value": 4 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Traveling Merchant",
+    "actorLink": false
+  },
+  "sort": 300000,
+  "folder": "dnfo000000000001"
+}
