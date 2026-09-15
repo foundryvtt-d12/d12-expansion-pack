@@ -1,0 +1,47 @@
+{
+  "id": "d12-expansion-pack",
+  "title": "D12 Expansion Pack",
+  "description": "A shareable compendium pack of additional NPCs and monsters for the D12 system.",
+  "authors": [
+    {
+      "name": "Flavien Charlon",
+      "url": "https://github.com/flavien/"
+    }
+  ],
+  "url": "https://github.com/foundryvtt-d12/d12-expansion-pack",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "manifest": "{MANIFEST}",
+  "download": "{DOWNLOAD}",
+  "bugs": "https://github.com/foundryvtt-d12/d12-expansion-pack/issues",
+  "changelog": "CHANGELOG.md",
+  "version": "{VERSION}",
+  "compatibility": {
+    "minimum": "13",
+    "maximum": "14",
+    "verified": "14.360"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "d12",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt-d12/d12/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "npcs",
+      "label": "D12 Expansion NPCs",
+      "system": "d12",
+      "path": "packs/npcs",
+      "type": "Actor"
+    }
+  ],
+  "packFolders": [],
+  "socket": false
+}
