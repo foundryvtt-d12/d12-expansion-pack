@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000005",
+  "_key": "!actors!dnpc000000000005",
+  "name": "Castle Sentinel",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "health": { "value": 10, "max": 10 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A heavily armored soldier standing watch over the castle gates, loyal to the lord within.",
+    "abilities": {
+      "str": { "value": 2 },
+      "agi": { "value": 0 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 9 },
+      "end": { "value": 7 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Castle Sentinel",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000003"
+}

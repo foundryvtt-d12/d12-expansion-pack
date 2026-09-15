@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000004",
+  "_key": "!actors!dnpc000000000004",
+  "name": "Giant Spider",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "health": { "value": 9, "max": 9 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A venomous ambush predator that drops from the forest canopy and wraps its prey in silk.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 3 },
+      "int": { "value": -2 },
+      "per": { "value": 2 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 6 },
+      "end": { "value": 7 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Giant Spider",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000002"
+}

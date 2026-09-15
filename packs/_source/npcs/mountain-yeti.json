@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000011",
+  "_key": "!actors!dnpc000000000011",
+  "name": "Mountain Yeti",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "health": { "value": 12, "max": 12 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A massive, white-furred beast that stalks high mountain passes, burying travelers in sudden snowdrifts.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": 0 },
+      "int": { "value": -1 },
+      "per": { "value": 1 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 7 },
+      "end": { "value": 8 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mountain Yeti",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000006"
+}

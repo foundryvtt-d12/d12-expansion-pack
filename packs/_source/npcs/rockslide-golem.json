@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000012",
+  "_key": "!actors!dnpc000000000012",
+  "name": "Rockslide Golem",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "health": { "value": 16, "max": 16 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "An animated pile of boulders and rubble, bound by old magic to guard a mountain pass or ancient shrine.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": -2 },
+      "int": { "value": -2 },
+      "per": { "value": -1 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 10 },
+      "end": { "value": 10 },
+      "wil": { "value": 8 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Rockslide Golem",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000006"
+}

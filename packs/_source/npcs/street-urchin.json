@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000002",
+  "_key": "!actors!dnpc000000000002",
+  "name": "Street Urchin",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "health": { "value": 3, "max": 3 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A quick-fingered orphan who knows every alley and rooftop in town, and isn't above a bit of pickpocketing.",
+    "abilities": {
+      "str": { "value": -1 },
+      "agi": { "value": 3 },
+      "int": { "value": 0 },
+      "per": { "value": 2 },
+      "cha": { "value": 1 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 5 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Street Urchin",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000001"
+}

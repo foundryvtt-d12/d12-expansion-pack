@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000009",
+  "_key": "!actors!dnpc000000000009",
+  "name": "Sea Raider",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "health": { "value": 7, "max": 7 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A weathered pirate who boards merchant ships with cutlass in hand, quick to loot and quicker to flee.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 2 },
+      "int": { "value": -1 },
+      "per": { "value": 1 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 5 },
+      "end": { "value": 6 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Sea Raider",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000005"
+}
