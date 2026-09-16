@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000054",
+  "_key": "!actors!dnpc000000000054",
+  "name": "Unicorn",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/unicorn.webp",
+  "system": {
+    "health": { "value": 9, "max": 9 },
+    "mana": { "value": 5, "max": 5 },
+    "biography": "A pure white horse crowned with a single spiraled horn, radiant and fiercely shy of strangers. Its blood can sustain life beyond death, but at a terrible, cursed cost.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 2 },
+      "int": { "value": 0 },
+      "per": { "value": 3 },
+      "cha": { "value": 2 }
+    },
+    "defenses": {
+      "arm": { "value": 5 },
+      "end": { "value": 7 },
+      "wil": { "value": 9 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Unicorn",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000011"
+}

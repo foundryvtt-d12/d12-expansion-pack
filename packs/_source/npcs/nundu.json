@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000056",
+  "_key": "!actors!dnpc000000000056",
+  "name": "Nundu",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/nundu.webp",
+  "system": {
+    "health": { "value": 16, "max": 16 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A giant leopard-like beast whose very breath carries a disease deadly enough to raze a village. It moves in near-total silence despite its immense size.",
+    "abilities": {
+      "str": { "value": 4 },
+      "agi": { "value": 2 },
+      "int": { "value": -1 },
+      "per": { "value": 2 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 9 },
+      "end": { "value": 11 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Nundu",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000010"
+}

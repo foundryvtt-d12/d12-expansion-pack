@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000046",
+  "_key": "!actors!dnpc000000000046",
+  "name": "Three-Headed Hound",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/three-headed-hound.webp",
+  "system": {
+    "health": { "value": 16, "max": 16 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "An enormous three-headed dog set to guard a trapdoor, each head snarling independently at any intruder. Curiously, the right melody can lull all three heads to sleep at once.",
+    "abilities": {
+      "str": { "value": 4 },
+      "agi": { "value": 0 },
+      "int": { "value": -2 },
+      "per": { "value": 2 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 10 },
+      "end": { "value": 12 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Three-Headed Hound",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000019"
+}

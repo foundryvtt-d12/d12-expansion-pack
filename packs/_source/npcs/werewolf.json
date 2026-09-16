@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000049",
+  "_key": "!actors!dnpc000000000049",
+  "name": "Werewolf",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/werewolf.webp",
+  "system": {
+    "health": { "value": 11, "max": 11 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A person cursed to transform into a savage, wolf-like beast each full moon, retaining little of their human mind in that state. By day they may seem gentle, even ashamed of what they become by night.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": 2 },
+      "int": { "value": -1 },
+      "per": { "value": 1 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 8 },
+      "end": { "value": 9 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Werewolf",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000018"
+}

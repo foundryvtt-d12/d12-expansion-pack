@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000066",
+  "_key": "!actors!dnpc000000000066",
+  "name": "Mountain Giant",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/mountain-giant.webp",
+  "system": {
+    "health": { "value": 22, "max": 22 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A colossal, short-tempered giant that dwells in remote mountain caves, uprooting trees for clubs when angered. Its footsteps are said to be mistaken for distant thunder.",
+    "abilities": {
+      "str": { "value": 5 },
+      "agi": { "value": -2 },
+      "int": { "value": -1 },
+      "per": { "value": 0 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 11 },
+      "end": { "value": 14 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mountain Giant",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000017"
+}

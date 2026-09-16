@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000057",
+  "_key": "!actors!dnpc000000000057",
+  "name": "Manticore",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/manticore.webp",
+  "system": {
+    "health": { "value": 13, "max": 13 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A lion-bodied beast with an unnervingly human-like face and a barbed, venomous tail. It is said to hum tunelessly to itself while stalking prey through rocky wastes.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": 1 },
+      "int": { "value": -1 },
+      "per": { "value": 1 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 8 },
+      "end": { "value": 9 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Manticore",
+    "actorLink": false
+  },
+  "sort": 600000,
+  "folder": "dnfo000000000019"
+}

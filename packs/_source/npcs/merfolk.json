@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000051",
+  "_key": "!actors!dnpc000000000051",
+  "name": "Merfolk",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/merfolk.webp",
+  "system": {
+    "health": { "value": 6, "max": 6 },
+    "mana": { "value": 2, "max": 2 },
+    "biography": "An aquatic dweller of a torchlit village beneath a lake, pale-scaled and trident-armed. Merfolk are wary of surface folk but sing in eerie, beautiful choruses among themselves.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 6 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Merfolk",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000018"
+}

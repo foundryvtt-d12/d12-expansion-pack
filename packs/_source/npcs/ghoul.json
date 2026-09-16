@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000064",
+  "_key": "!actors!dnpc000000000064",
+  "name": "Ghoul",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/ghoul.webp",
+  "system": {
+    "health": { "value": 6, "max": 6 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A slow, dim-witted flesh-eating undead that tends to lurk in attics and crawlspaces, largely forgotten by the families it haunts. It grunts and moans but rarely bothers anyone who leaves it alone.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 0 },
+      "int": { "value": -2 },
+      "per": { "value": 0 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 6 },
+      "wil": { "value": 4 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Ghoul",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000022"
+}

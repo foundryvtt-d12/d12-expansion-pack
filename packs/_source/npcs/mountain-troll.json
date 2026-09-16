@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000050",
+  "_key": "!actors!dnpc000000000050",
+  "name": "Mountain Troll",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/mountain-troll.webp",
+  "system": {
+    "health": { "value": 18, "max": 18 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A hulking, dim-witted brute with grey, warty hide and a club nearly as tall as a man. It smashes first and rarely thinks to ask questions at all.",
+    "abilities": {
+      "str": { "value": 4 },
+      "agi": { "value": -2 },
+      "int": { "value": -2 },
+      "per": { "value": 0 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 9 },
+      "end": { "value": 12 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mountain Troll",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000017"
+}

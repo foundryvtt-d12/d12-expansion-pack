@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000061",
+  "_key": "!actors!dnpc000000000061",
+  "name": "Erumpent",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/erumpent.webp",
+  "system": {
+    "health": { "value": 15, "max": 15 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A massive, rhinoceros-like beast with a glowing horn that detonates violently on impact. It charges at the faintest hint of a threat, leaving craters in its wake.",
+    "abilities": {
+      "str": { "value": 5 },
+      "agi": { "value": -1 },
+      "int": { "value": -2 },
+      "per": { "value": 0 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 10 },
+      "end": { "value": 12 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Erumpent",
+    "actorLink": false
+  },
+  "sort": 300000,
+  "folder": "dnfo000000000010"
+}

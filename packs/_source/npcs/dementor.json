@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000044",
+  "_key": "!actors!dnpc000000000044",
+  "name": "Dementor",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/dementor.webp",
+  "system": {
+    "health": { "value": 8, "max": 8 },
+    "mana": { "value": 6, "max": 6 },
+    "biography": "A hooded, wraith-like horror that glides through cold air, feeding on warmth and hope wherever it lingers. Rooms it enters grow dark and joyless long after it has passed.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 1 },
+      "int": { "value": 0 },
+      "per": { "value": 3 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 3 },
+      "end": { "value": 9 },
+      "wil": { "value": 10 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Dementor",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000016"
+}

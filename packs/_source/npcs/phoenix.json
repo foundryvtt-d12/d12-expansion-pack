@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000053",
+  "_key": "!actors!dnpc000000000053",
+  "name": "Phoenix",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/phoenix.webp",
+  "system": {
+    "health": { "value": 8, "max": 8 },
+    "mana": { "value": 8, "max": 8 },
+    "biography": "A magnificent crimson-and-gold firebird whose song stirs courage in the fainthearted. When mortally wounded it bursts into flame, later rising renewed from its own ashes.",
+    "abilities": {
+      "str": { "value": 0 },
+      "agi": { "value": 3 },
+      "int": { "value": 1 },
+      "per": { "value": 3 },
+      "cha": { "value": 2 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 7 },
+      "wil": { "value": 10 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Phoenix",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000011"
+}

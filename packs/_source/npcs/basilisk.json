@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000043",
+  "_key": "!actors!dnpc000000000043",
+  "name": "Basilisk",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/monsters/basilisk.webp",
+  "system": {
+    "health": { "value": 20, "max": 20 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A colossal serpent that dwells in forgotten tunnels beneath old stone halls, its scales the color of dried moss. A single glimpse of its glowing yellow eyes is said to bring instant death.",
+    "abilities": {
+      "str": { "value": 5 },
+      "agi": { "value": -1 },
+      "int": { "value": -2 },
+      "per": { "value": 3 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 12 },
+      "end": { "value": 14 },
+      "wil": { "value": 9 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Basilisk",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000019"
+}
