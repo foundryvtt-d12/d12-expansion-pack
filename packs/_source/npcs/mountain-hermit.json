@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000037",
+  "_key": "!actors!dnpc000000000037",
+  "name": "Mountain Hermit",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/mountain-hermit.webp",
+  "system": {
+    "health": { "value": 5, "max": 5 },
+    "mana": { "value": 3, "max": 3 },
+    "biography": "A wild-bearded recluse who lives alone in a windswept cliffside hut, having long since traded company for solitude and strange visions. He offers cryptic warnings to those who climb high enough to find him.",
+    "abilities": {
+      "str": { "value": 0 },
+      "agi": { "value": 0 },
+      "int": { "value": 2 },
+      "per": { "value": 3 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 6 },
+      "wil": { "value": 8 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mountain Hermit",
+    "actorLink": false
+  },
+  "sort": 300000,
+  "folder": "dnfo000000000006"
+}

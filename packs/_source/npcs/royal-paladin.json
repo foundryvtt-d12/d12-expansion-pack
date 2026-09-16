@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000029",
+  "_key": "!actors!dnpc000000000029",
+  "name": "Royal Paladin",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/royal-paladin.webp",
+  "system": {
+    "health": { "value": 11, "max": 11 },
+    "mana": { "value": 1, "max": 1 },
+    "biography": "A gleaming knight sworn to the royal line, plate armor polished to a mirror shine. Unwaveringly devout and disciplined, he treats every duty, however small, as sacred.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": 1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 1 }
+    },
+    "defenses": {
+      "arm": { "value": 11 },
+      "end": { "value": 9 },
+      "wil": { "value": 8 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Royal Paladin",
+    "actorLink": false
+  },
+  "sort": 400000,
+  "folder": "dnfo000000000003"
+}

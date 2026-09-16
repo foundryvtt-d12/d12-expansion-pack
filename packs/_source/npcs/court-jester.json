@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000030",
+  "_key": "!actors!dnpc000000000030",
+  "name": "Court Jester",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/court-jester.webp",
+  "system": {
+    "health": { "value": 4, "max": 4 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A nimble fool in motley who tumbles and jests to keep the court amused, hiding sharp eyes behind a painted grin. He hears everything said in front of him, because no one thinks a fool is listening.",
+    "abilities": {
+      "str": { "value": 0 },
+      "agi": { "value": 3 },
+      "int": { "value": 1 },
+      "per": { "value": 2 },
+      "cha": { "value": 2 }
+    },
+    "defenses": {
+      "arm": { "value": 2 },
+      "end": { "value": 4 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Court Jester",
+    "actorLink": false
+  },
+  "sort": 500000,
+  "folder": "dnfo000000000003"
+}

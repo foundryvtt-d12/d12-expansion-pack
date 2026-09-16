@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000033",
+  "_key": "!actors!dnpc000000000033",
+  "name": "Druid Grove Warden",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/druid-grove-warden.webp",
+  "system": {
+    "health": { "value": 6, "max": 6 },
+    "mana": { "value": 7, "max": 7 },
+    "biography": "A moss-cloaked guardian of an ancient grove, antlers woven into wild hair, who speaks to the trees as often as to travelers. She tolerates visitors only so long as they respect what grows here.",
+    "abilities": {
+      "str": { "value": 0 },
+      "agi": { "value": 1 },
+      "int": { "value": 1 },
+      "per": { "value": 2 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 4 },
+      "end": { "value": 6 },
+      "wil": { "value": 8 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Druid Grove Warden",
+    "actorLink": false
+  },
+  "sort": 300000,
+  "folder": "dnfo000000000002"
+}

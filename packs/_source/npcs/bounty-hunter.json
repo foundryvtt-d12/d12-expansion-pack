@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000027",
+  "_key": "!actors!dnpc000000000027",
+  "name": "Bounty Hunter",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/bounty-hunter.webp",
+  "system": {
+    "health": { "value": 7, "max": 7 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A grim tracker in worn leathers, a collection of wanted posters folded in her coat pocket. She takes no side in a quarrel, only payment, and has never lost a mark she's decided to follow.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 2 },
+      "int": { "value": 0 },
+      "per": { "value": 3 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 7 },
+      "end": { "value": 6 },
+      "wil": { "value": 7 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Bounty Hunter",
+    "actorLink": false
+  },
+  "sort": 1200000,
+  "folder": "dnfo000000000001"
+}

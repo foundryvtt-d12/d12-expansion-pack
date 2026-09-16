@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000036",
+  "_key": "!actors!dnpc000000000036",
+  "name": "Mining Foreman",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/mining-foreman.webp",
+  "system": {
+    "health": { "value": 8, "max": 8 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A broad, sure-footed woman who oversees the mountain's mine shafts, barking orders over the ring of pickaxes. She trusts the mountain more than most people, and it has never once let her down.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": -1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 7 },
+      "end": { "value": 8 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mining Foreman",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000006"
+}

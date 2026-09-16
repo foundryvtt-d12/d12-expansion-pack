@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000023",
+  "_key": "!actors!dnpc000000000023",
+  "name": "Town Guard",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/town-guard.webp",
+  "system": {
+    "health": { "value": 8, "max": 8 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A young city watchman in scuffed mail, more earnest than experienced, patrolling the same three streets night after night. Eager to prove himself, he salutes too sharply and challenges strangers a bit too readily.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 8 },
+      "end": { "value": 7 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Town Guard",
+    "actorLink": false
+  },
+  "sort": 800000,
+  "folder": "dnfo000000000001"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000026",
+  "_key": "!actors!dnpc000000000026",
+  "name": "Town Crier",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/town-crier.webp",
+  "system": {
+    "health": { "value": 4, "max": 4 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A booming-voiced fixture of the town square, bell in hand, who announces decrees, gossip, and executions with equal enthusiasm. He knows every rumor before it's official.",
+    "abilities": {
+      "str": { "value": -1 },
+      "agi": { "value": 0 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 3 }
+    },
+    "defenses": {
+      "arm": { "value": 2 },
+      "end": { "value": 4 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Town Crier",
+    "actorLink": false
+  },
+  "sort": 1100000,
+  "folder": "dnfo000000000001"
+}

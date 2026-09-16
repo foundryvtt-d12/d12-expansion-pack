@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000035",
+  "_key": "!actors!dnpc000000000035",
+  "name": "Dwarven Runesmith",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/dwarven-runesmith.webp",
+  "system": {
+    "health": { "value": 7, "max": 7 },
+    "mana": { "value": 5, "max": 5 },
+    "biography": "A dwarf covered in soot and faintly glowing tattoos, who etches wards and runes into weapons and doors alike. His workshop hums faintly, even when he isn't in it.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": -1 },
+      "int": { "value": 3 },
+      "per": { "value": 1 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 7 },
+      "end": { "value": 7 },
+      "wil": { "value": 8 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Dwarven Runesmith",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000006"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000034",
+  "_key": "!actors!dnpc000000000034",
+  "name": "Bandit Chief",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/bandit-chief.webp",
+  "system": {
+    "health": { "value": 8, "max": 8 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A scarred outlaw who commands a ragged band from a hidden forest camp, equal parts charisma and cruelty. He robs travelers on the old road and pays his people well enough that few betray him.",
+    "abilities": {
+      "str": { "value": 2 },
+      "agi": { "value": 2 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 1 }
+    },
+    "defenses": {
+      "arm": { "value": 6 },
+      "end": { "value": 7 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Bandit Chief",
+    "actorLink": false
+  },
+  "sort": 400000,
+  "folder": "dnfo000000000002"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000032",
+  "_key": "!actors!dnpc000000000032",
+  "name": "Ranger Scout",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/ranger-scout.webp",
+  "system": {
+    "health": { "value": 7, "max": 7 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A quiet woodsman in green and brown, bow slung across his back, who reads broken twigs and disturbed leaves like a book. He knows every trail in the forest, and a few that aren't meant to be found.",
+    "abilities": {
+      "str": { "value": 1 },
+      "agi": { "value": 3 },
+      "int": { "value": 0 },
+      "per": { "value": 3 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 6 },
+      "end": { "value": 7 },
+      "wil": { "value": 6 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Ranger Scout",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000002"
+}

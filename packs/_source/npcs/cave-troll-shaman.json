@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000039",
+  "_key": "!actors!dnpc000000000039",
+  "name": "Cave Troll Shaman",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/cave-troll-shaman.webp",
+  "system": {
+    "health": { "value": 14, "max": 14 },
+    "mana": { "value": 5, "max": 5 },
+    "biography": "A hulking troll draped in bone fetishes and cave-lichen paint, who leads the cave clan's crude rites by firelight. Slow to anger, but the walls still remember the last time it wasn't.",
+    "abilities": {
+      "str": { "value": 3 },
+      "agi": { "value": -1 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": 0 }
+    },
+    "defenses": {
+      "arm": { "value": 9 },
+      "end": { "value": 10 },
+      "wil": { "value": 7 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Cave Troll Shaman",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000004"
+}

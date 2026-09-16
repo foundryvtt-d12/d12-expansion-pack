@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000041",
+  "_key": "!actors!dnpc000000000041",
+  "name": "Lighthouse Keeper",
+  "type": "npc",
+  "img": "modules/d12-expansion-pack/assets/npcs/lighthouse-keeper.webp",
+  "system": {
+    "health": { "value": 5, "max": 5 },
+    "mana": { "value": 1, "max": 1 },
+    "biography": "A solitary old sailor who tends the coastal lighthouse through every storm, keeping careful count of the ships that pass. He's seen things out on the water he doesn't talk about anymore.",
+    "abilities": {
+      "str": { "value": 0 },
+      "agi": { "value": -1 },
+      "int": { "value": 1 },
+      "per": { "value": 3 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 3 },
+      "end": { "value": 5 },
+      "wil": { "value": 7 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Lighthouse Keeper",
+    "actorLink": false
+  },
+  "sort": 200000,
+  "folder": "dnfo000000000005"
+}
