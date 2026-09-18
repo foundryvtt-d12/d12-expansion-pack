@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000101",
   "name": "Axe",
   "type": "item",
-  "img": "modules/d12-expansion-pack/assets/items/axe.png",
+  "img": "modules/d12-expansion-pack/assets/items/axe.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Deal 1 damage.</p>",
     "action": {

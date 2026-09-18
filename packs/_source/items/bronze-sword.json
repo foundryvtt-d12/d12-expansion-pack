@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000102",
   "name": "Bronze Sword",
   "type": "item",
-  "img": "modules/d12-expansion-pack/assets/items/bronze-sword.png",
+  "img": "modules/d12-expansion-pack/assets/items/bronze-sword.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Deal 1 damage.</p>\n<p style=\"text-align: center;\"><strong>Critical:</strong> Damage ×2.</p>",
     "action": {

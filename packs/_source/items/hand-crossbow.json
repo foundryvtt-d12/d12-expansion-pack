@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000106",
   "name": "Hand Crossbow",
   "type": "item",
-  "img": "modules/d12-expansion-pack/assets/items/hand-crossbow.png",
+  "img": "modules/d12-expansion-pack/assets/items/hand-crossbow.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Deal 1 damage.</p>",
     "action": {

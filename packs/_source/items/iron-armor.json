@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000203",
   "name": "Iron Armor",
   "type": "item",
-  "img": "modules/d12-expansion-pack/assets/items/iron-armor.png",
+  "img": "modules/d12-expansion-pack/assets/items/iron-armor.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">+2 Armor</p>\n<p style=\"text-align: center;\"><strong>Requires:</strong> 1 Strength</p>",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000129",
   "name": "Whip",
   "type": "item",
-  "img": "modules/d12-expansion-pack/assets/items/whip.png",
+  "img": "modules/d12-expansion-pack/assets/items/whip.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Deal 1 damage.<br />Slow the target.</p>",
     "action": {
