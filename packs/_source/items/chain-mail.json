@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000202",
+  "_key": "!items!ditm000000000202",
+  "name": "Chain Mail",
+  "type": "item",
+  "img": "modules/d12-expansion-pack/assets/items/chain-mail.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\">+3 Armor</p>\n<p style=\"text-align: center;\"><strong>Requires:</strong> 2 Strength</p>",
+    "quantity": 1,
+    "weight": 12,
+    "rarity": "common",
+    "price": 50,
+    "category": "armor"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000003"
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000112",
+  "_key": "!items!dspl000000000112",
+  "name": "Group Healing",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/group-healing.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">Restore 2 health to all nearby allies.</p>",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 4
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

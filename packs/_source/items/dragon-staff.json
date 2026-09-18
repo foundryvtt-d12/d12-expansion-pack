@@ -1,0 +1,30 @@
+{
+  "_id": "ditm000000000104",
+  "_key": "!items!ditm000000000104",
+  "name": "Dragon Staff",
+  "type": "item",
+  "img": "modules/d12-expansion-pack/assets/items/dragon-staff.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Two-handed, Fire</strong></p>\n<p style=\"text-align: center;\">Deal 1 damage.</p>\n<p style=\"text-align: center;\"><strong>Critical:</strong> Damage ×2.</p>",
+    "action": {
+      "roll": {
+        "ability": "int",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        },
+        "critical": 12
+      }
+    },
+    "quantity": 1,
+    "weight": 4,
+    "rarity": "common",
+    "price": 100,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

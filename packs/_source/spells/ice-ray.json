@@ -1,0 +1,28 @@
+{
+  "_id": "dspl000000000114",
+  "_key": "!items!dspl000000000114",
+  "name": "Ice Ray",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/ice-ray.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You project a ray of frost on the target dealing 2 damage.<br /><strong>Miss:</strong> The target is only slowed.</p>",
+    "action": {
+      "roll": {
+        "ability": "int",
+        "bonus": 0,
+        "target": {
+          "type": "end"
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

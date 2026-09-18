@@ -58,7 +58,9 @@ jobs:
             LICENSE                         \
             module.json                     \
             assets/                         \
-            packs/npcs/
+            packs/npcs/                     \
+            packs/items/                    \
+            packs/spells/
 
       # Update the GitHub release with the manifest and module archive files.
       - name: Update Release With Files

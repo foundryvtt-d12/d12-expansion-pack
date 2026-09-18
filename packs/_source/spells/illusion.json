@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000115",
+  "_key": "!items!dspl000000000115",
+  "name": "Illusion",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/illusion.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You create an illusion of an object or person that disappears when touched.</p>",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

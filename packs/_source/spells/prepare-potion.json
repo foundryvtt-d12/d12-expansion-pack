@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000206",
+  "_key": "!items!dspl000000000206",
+  "name": "Prepare Potion",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/prepare-potion.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You prepare a potion.<br /><strong>Miss:</strong> The effect of the potion is unknown.</p>",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

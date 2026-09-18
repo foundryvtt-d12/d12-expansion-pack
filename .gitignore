@@ -1,4 +1,6 @@
 node_modules/
 packs/npcs/
+packs/items/
+packs/spells/
 .npm
 *.log

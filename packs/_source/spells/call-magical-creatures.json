@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000101",
+  "_key": "!items!dspl000000000101",
+  "name": "Call Magical Creatures",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/call-magical-creatures.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You call any magical creature who can hear you.</p>",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 4
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

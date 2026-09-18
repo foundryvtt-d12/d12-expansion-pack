@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000111",
+  "_key": "!items!dspl000000000111",
+  "name": "Fog",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/fog.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You create a dense cloud of fog.</p>",
+    "action": {
+      "roll": {
+        "ability": "int",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

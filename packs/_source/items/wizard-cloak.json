@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000209",
+  "_key": "!items!ditm000000000209",
+  "name": "Wizard Cloak",
+  "type": "item",
+  "img": "modules/d12-expansion-pack/assets/items/wizard-cloak.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\">+1 Endurance</p>\n<p style=\"text-align: center;\"><strong>Requires:</strong> 1 Intelligence</p>",
+    "quantity": 1,
+    "weight": 2,
+    "rarity": "common",
+    "price": 35,
+    "category": "armor"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000003"
+}

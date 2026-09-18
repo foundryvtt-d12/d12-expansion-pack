@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000103",
+  "_key": "!items!dspl000000000103",
+  "name": "Create Food",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/create-food.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You create a delicious meal.</p>",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 4
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

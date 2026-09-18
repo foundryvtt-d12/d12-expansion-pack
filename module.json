@@ -40,6 +40,20 @@
       "system": "d12",
       "path": "packs/npcs",
       "type": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "D12 Expansion Items",
+      "system": "d12",
+      "path": "packs/items",
+      "type": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "D12 Expansion Spells",
+      "system": "d12",
+      "path": "packs/spells",
+      "type": "Item"
     }
   ],
   "packFolders": [],

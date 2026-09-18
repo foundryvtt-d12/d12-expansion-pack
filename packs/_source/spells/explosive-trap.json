@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000107",
+  "_key": "!items!dspl000000000107",
+  "name": "Explosive Trap",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/explosive-trap.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You set a trap which you can detonate from a distance.<br />Deals 2 damage.</p>",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

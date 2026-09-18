@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000212",
+  "_key": "!items!dspl000000000212",
+  "name": "Speed",
+  "type": "spell",
+  "img": "modules/d12-expansion-pack/assets/spells/speed.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">You can run extremely fast.</p>",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

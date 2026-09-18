@@ -1,0 +1,30 @@
+{
+  "_id": "ditm000000000113",
+  "_key": "!items!ditm000000000113",
+  "name": "Maul",
+  "type": "item",
+  "img": "modules/d12-expansion-pack/assets/items/maul.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Two-handed</strong></p>\n<p style=\"text-align: center;\">Deal 2 damage.</p>\n<p style=\"text-align: center;\"><strong>Critical:</strong> Stun the target.</p>",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        },
+        "critical": 11
+      }
+    },
+    "quantity": 1,
+    "weight": 10,
+    "rarity": "common",
+    "price": 40,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}
