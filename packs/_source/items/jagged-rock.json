@@ -1,0 +1,29 @@
+{
+  "_id": "ditm000000000242",
+  "_key": "!items!ditm000000000242",
+  "name": "Jagged Rock",
+  "type": "item",
+  "img": "modules/d12-expansion-pack/assets/items/jagged-rock.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\">Deal 1 damage.</p>",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        }
+      }
+    },
+    "quantity": 1,
+    "weight": 3,
+    "rarity": "common",
+    "price": 15,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}
