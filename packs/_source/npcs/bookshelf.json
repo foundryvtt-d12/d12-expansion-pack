@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000078",
+  "_key": "!actors!dnpc000000000078",
+  "name": "Bookshelf",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/bookshelf.webp",
+  "system": {
+    "biography": "A tall bookshelf crammed with weathered tomes, loose scrolls, and scraps of parchment. Scholars and spellcasters alike might find page-worn secrets among its dusty spines."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Bookshelf",
+    "actorLink": false
+  },
+  "sort": 1100000,
+  "folder": "dnfo000000000023"
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000082",
+  "_key": "!actors!dnpc000000000082",
+  "name": "Armor Stand",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/armor-stand.webp",
+  "system": {
+    "biography": "A wooden armor stand displaying a suit of well-worn plate, ready to be claimed by whoever needs it most."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Armor Stand",
+    "actorLink": false
+  },
+  "sort": 1500000,
+  "folder": "dnfo000000000023"
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000083",
+  "_key": "!actors!dnpc000000000083",
+  "name": "Arcane Reliquary",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/arcane-reliquary.webp",
+  "system": {
+    "biography": "A stone pedestal holding a strange glowing artifact, humming faintly with barely contained magic."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Arcane Reliquary",
+    "actorLink": false
+  },
+  "sort": 1600000,
+  "folder": "dnfo000000000023"
+}

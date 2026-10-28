@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000068",
+  "_key": "!actors!dnpc000000000068",
+  "name": "Wooden Chest",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/wooden-chest.webp",
+  "system": {
+    "biography": "A plain wooden chest bound with iron fittings, scuffed from years of travel. Its lid creaks when opened, revealing whatever modest treasures it holds."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Wooden Chest",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000023"
+}

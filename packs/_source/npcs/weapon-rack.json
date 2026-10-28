@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000081",
+  "_key": "!actors!dnpc000000000081",
+  "name": "Weapon Rack",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/weapon-rack.webp",
+  "system": {
+    "biography": "A sturdy wooden rack holding an assortment of blades, polearms, and bows, clearly maintained by someone who takes their arms seriously."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Weapon Rack",
+    "actorLink": false
+  },
+  "sort": 1400000,
+  "folder": "dnfo000000000023"
+}

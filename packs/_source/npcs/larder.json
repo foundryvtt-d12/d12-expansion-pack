@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000079",
+  "_key": "!actors!dnpc000000000079",
+  "name": "Larder",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/larder.webp",
+  "system": {
+    "biography": "A stocked larder shelf lined with preserved meats, bread loaves, and jars of pickled vegetables. Travelers passing through rarely leave hungry if they find it first."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Larder",
+    "actorLink": false
+  },
+  "sort": 1200000,
+  "folder": "dnfo000000000023"
+}

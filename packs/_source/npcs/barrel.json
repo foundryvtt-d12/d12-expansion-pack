@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000072",
+  "_key": "!actors!dnpc000000000072",
+  "name": "Barrel",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/barrel.webp",
+  "system": {
+    "biography": "A weathered barrel with rusted iron hoops, likely once holding ale or salted fish. Now it serves a different purpose for whoever stashed something inside."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Barrel",
+    "actorLink": false
+  },
+  "sort": 500000,
+  "folder": "dnfo000000000023"
+}

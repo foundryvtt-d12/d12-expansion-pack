@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000075",
+  "_key": "!actors!dnpc000000000075",
+  "name": "Treasure Pile",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/treasure-pile.webp",
+  "system": {
+    "biography": "A glittering heap of coins, loose gems, and odd trinkets, piled without any order. Exactly the kind of hoard an adventurer dreams of stumbling across."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Treasure Pile",
+    "actorLink": false
+  },
+  "sort": 800000,
+  "folder": "dnfo000000000023"
+}

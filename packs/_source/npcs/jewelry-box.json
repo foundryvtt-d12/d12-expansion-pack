@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000084",
+  "_key": "!actors!dnpc000000000084",
+  "name": "Jewelry Box",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/jewelry-box.webp",
+  "system": {
+    "biography": "A small ornate jewelry box lined with velvet, holding a scatter of rings, necklaces, and gemstones."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Jewelry Box",
+    "actorLink": false
+  },
+  "sort": 1700000,
+  "folder": "dnfo000000000023"
+}

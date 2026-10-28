@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000076",
+  "_key": "!actors!dnpc000000000076",
+  "name": "Fallen Adventurer",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/fallen-adventurer.webp",
+  "system": {
+    "biography": "The remains of an unlucky traveler, their gear still strapped on and pockets unchecked. Whatever ended them, their belongings are still fair game."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Fallen Adventurer",
+    "actorLink": false
+  },
+  "sort": 900000,
+  "folder": "dnfo000000000023"
+}

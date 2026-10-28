@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000073",
+  "_key": "!actors!dnpc000000000073",
+  "name": "Cloth Sack",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/cloth-sack.webp",
+  "system": {
+    "biography": "A lumpy burlap sack cinched shut with twine, its shape hinting at an odd assortment of contents. It smells faintly of road dust and old coin."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Cloth Sack",
+    "actorLink": false
+  },
+  "sort": 600000,
+  "folder": "dnfo000000000023"
+}

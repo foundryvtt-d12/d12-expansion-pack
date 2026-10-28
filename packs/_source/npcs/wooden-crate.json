@@ -1,0 +1,19 @@
+{
+  "_id": "dnpc000000000071",
+  "_key": "!actors!dnpc000000000071",
+  "name": "Wooden Crate",
+  "type": "loot",
+  "img": "modules/d12-expansion-pack/assets/loot/wooden-crate.webp",
+  "system": {
+    "biography": "A roughly nailed wooden crate marked with faded shipping stencils, its slats loose enough to peek inside. No one's quite sure what it was meant to carry."
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Wooden Crate",
+    "actorLink": false
+  },
+  "sort": 400000,
+  "folder": "dnfo000000000023"
+}
